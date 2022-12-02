@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-#include"LinkIncrement.cpp"
+#include"Node.cpp"
 void print(Node *head){
     Node *temp = head;
 
